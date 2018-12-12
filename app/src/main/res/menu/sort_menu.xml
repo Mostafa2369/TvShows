@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item android:title="@string/pop"
+        android:id="@+id/popular"
+        app:showAsAction="never"/>
+    <item android:title="@string/rate"
+        android:id="@+id/rated"
+        app:showAsAction="never"/>
+    <item android:title="@string/rate2"
+        android:id="@+id/rated2"
+        app:showAsAction="never"/>
+
+
+</menu>

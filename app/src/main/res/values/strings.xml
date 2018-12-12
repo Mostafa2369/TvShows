@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TvShows app</string>
+    <string name="api_key">3f240f7d8a4b186fa413732eeb4146ea</string>
+    <string name="most_popular">popularity.desc</string>
+    <string name="top_rated">vote_average.desc</string>
+    <string name="pop">Most Popular</string>
+    <string name="appwidget_text">Check Out This TvShow</string>
+    <string name="rate">Top Rated</string>
+    <string name="fav">Favorate</string>
+    <string name="rate2">Favorites</string>
+    <string name="title">Title: </string>
+    <string name="vote">Vote Average: </string>
+    <string name="release">Release Date: </string>
+    <string name="over">Overview: </string>
+    <string name="rev">Reviews: </string>
+    <string name="trailer">"Trailer "+</string>
+    <string name="key">3f240f7d8a4b186fa413732eeb4146ea</string>
+    <string name="tv">https://api.themoviedb.org/3/tv/</string>
+    <string name="api">api_key</string>
+    <string name="lang">language</string>
+    <string name="en">en-US</string>
+    <string name="page">page</string>
+    <string name="num">1</string>
+    <string name="GET">GET</string>
+    <string name="MissingPermission">MissingPermission</string>
+    <string name="desc">Like</string>
+    <string name="TODO">TODO</string>
+    <string name="TODO2">imagePoster</string>
+    <string name="popular_key" translatable="false">popular</string>
+    <string name="toprated_key" translatable="false">top_rated</string>
+    <string name="net">Please connect to internet</string>
+</resources>

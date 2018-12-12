@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "52432864616",
+    "firebase_url": "https://tvshows-3ff75.firebaseio.com",
+    "project_id": "tvshows-3ff75",
+    "storage_bucket": "tvshows-3ff75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52432864616:android:c9ddc889398e2a90",
+        "android_client_info": {
+          "package_name": "com.example.mostafa.tvshows"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52432864616-04qm5k5574qh3gorvbjvldhjrfmmaf3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7HFWISqqHcI24qy05498gmil0_3FLlZY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
